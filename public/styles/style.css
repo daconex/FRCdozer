@@ -18,3 +18,7 @@
 .nav-pills li:nth-child(n+1) a {
   padding:15px;
 }
+
+a.btn.btn-primary.btn-lg {
+  white-space:normal;
+}
